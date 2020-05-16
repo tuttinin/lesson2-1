@@ -1,0 +1,4 @@
+greeting = "Hallo World"
+puts greeting
+
+puts (1..10).inject(:+)
